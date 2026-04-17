@@ -1,17 +1,11 @@
-# Quartz v4
+# WU_GOKONG
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+This repository contains writeups (WU) and solver scripts for various CTF challenges I have completed.
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
+## Disclaimer
+All content provided here is for **educational purposes only**. This repository serves as a personal archive for my learning progress in cybersecurity.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+**Note:** No malicious binaries or active malware are hosted in this repository.
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
-
-## Sponsors
-
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+---
+*Published using Quartz*
